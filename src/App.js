@@ -11,12 +11,8 @@ function App() {
   return (
     <div className="App">
 
-     
-
-      <NavBar1/>
-      
+``     <NavBar1/>      
       <Hero/>
-
       <Feature1/>
       <Features2/>
       <Feature3/>
